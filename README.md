@@ -43,4 +43,4 @@ main.py
 1. Tiempo 😅
 2. Python 3
 3. Pyqt5
-4. Ganas de aprender. # contador_clics
+4. Ganas de aprender. 
